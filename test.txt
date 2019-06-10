@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 NAMA panjang SAYA DINA Mayana 
 NAMA panjang SAYA Ayun Prabastiningtias
+=======
+NAMA panjang SAYA pande made DINA Mayana 
+NAMA SAYA Ayun
+>>>>>>> 5386305cef0c36c48ba4664536041ec6e07f837c
